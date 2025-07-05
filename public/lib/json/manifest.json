@@ -1,0 +1,15 @@
+{
+    "name": "ZERO's Arras.io Clone",
+    "theme_color": "#454b7f",
+    "background_color": "#484948",
+    "description": "",
+    "orientation": "landscape",
+    "start_url": "/",
+    "scope": "/",
+    "display": "fullscreen",
+    "icons": [{
+        "src": "round.png",
+        "sizes": "96x96",
+        "type": "image/png"
+    }]
+}

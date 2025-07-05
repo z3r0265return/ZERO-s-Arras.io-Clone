@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /k "\"C:\Progra~1\nodejs\nodevars.bat\""
